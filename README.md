@@ -6,7 +6,6 @@ foldable electric scooter charging docks for apartment complexes. The
 model evaluates the company's financial feasibility through integrated
 financial statements, capital budgeting, and investment analysis.
 
-------------------------------------------------------------------------
 
 ## Project Overview
 
