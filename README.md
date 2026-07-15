@@ -18,7 +18,7 @@ The workbook is designed to simulate the financial performance of
 ScootCharge over a five-year period and can be adapted for scenario
 analysis by modifying the assumptions sheet.
 
-------------------------------------------------------------------------
+
 
 ## Workbook Structure
 
