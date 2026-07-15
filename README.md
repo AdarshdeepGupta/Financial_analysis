@@ -22,9 +22,9 @@ analysis by modifying the assumptions sheet.
 
 ## Workbook Structure
 
-  -----------------------------------------------------------------------
+  
   Sheet                       Description
-  --------------------------- -------------------------------------------
+ 
   **01 Cover**                Project overview and company information
 
   **02 Industry**             Industry outlook, market need, and sector
@@ -52,10 +52,8 @@ analysis by modifying the assumptions sheet.
                               Firm (FCFF)
 
   **11 Conclusion**           Financial KPIs and investment highlights
-  -----------------------------------------------------------------------
 
-------------------------------------------------------------------------
-
+ 
 ## Key Financial Analyses
 
 ### Financial Forecasting
@@ -96,7 +94,6 @@ analysis by modifying the assumptions sheet.
 -   Competitor benchmarking
 -   Investment summary and financial KPIs
 
-------------------------------------------------------------------------
 
 ## Features
 
@@ -109,7 +106,6 @@ analysis by modifying the assumptions sheet.
 -   Clean and structured workbook layout
 -   Easily customizable for scenario analysis
 
-------------------------------------------------------------------------
 
 ## Skills Demonstrated
 
@@ -124,7 +120,6 @@ analysis by modifying the assumptions sheet.
 -   Microsoft Excel
 -   Business Planning
 
-------------------------------------------------------------------------
 
 ## Tools Used
 
@@ -133,7 +128,6 @@ analysis by modifying the assumptions sheet.
 -   Capital Budgeting Techniques
 -   Corporate Finance Principles
 
-------------------------------------------------------------------------
 
 ## Learning Outcomes
 
@@ -143,14 +137,12 @@ market analysis, operational assumptions, financing decisions, projected
 financial statements, and capital budgeting into a unified financial
 model for strategic decision-making.
 
-------------------------------------------------------------------------
 
 ## Repository Contents
 
     ScootCharge_Financial.xlsx
     README.md
 
-------------------------------------------------------------------------
 
 ## Disclaimer
 
